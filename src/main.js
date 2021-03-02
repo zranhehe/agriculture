@@ -6,9 +6,13 @@ import router from './router'
 import  '@/assets/css/reset.css'
 import 'vant/lib/button/style';
 import Button from 'vant/lib/button';
+import { Divider, Switch, Dialog } from 'vant';
 
 Vue.config.productionTip = false
 Vue.use(Button)
+Vue.use(Divider)
+Vue.use(Switch)
+Vue.use(Dialog)
 
 /* eslint-disable no-new */
 new Vue({
