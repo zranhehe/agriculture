@@ -132,9 +132,6 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style lang="scss">
-body, html {
-  height: 100%;
-}
 .home-wrapper {
   height: 100%;
   text-align: left;
