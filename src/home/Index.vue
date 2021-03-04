@@ -71,7 +71,7 @@
       </div>
     </div>
     <div class="finished-wrapper" v-if="finished">
-      <img class="status" src="@/assets/images/water-open.png" alt="">
+      <img class="status" src="@/assets/images/finished.png" alt="">
       <div class="text">操作成功</div>
     </div>
   </div>
